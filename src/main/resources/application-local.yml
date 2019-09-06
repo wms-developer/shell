@@ -1,0 +1,10 @@
+spring:
+  profiles: local
+management:
+  security:
+    enabled: false
+logging:
+  config: classpath:logback-spring.xml
+  path: D:\logs
+
+

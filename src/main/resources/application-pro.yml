@@ -1,0 +1,8 @@
+spring:
+  profiles: pro
+management:
+  security:
+    enabled: false
+logging:
+  config: logback-spring.xml
+  path: D:\logs

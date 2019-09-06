@@ -1,0 +1,2 @@
+2019-09-06 10:30:31.940 [main] WARN  o.s.b.s.r.s.RemoteShellStarterDeprecatedWarningAutoConfiguration - spring-boot-starter-remote-shell is deprecated as of Spring Boot 1.5 and will be removed in Spring Boot 2.0
+2019-09-06 10:50:56.369 [main] WARN  o.s.b.s.r.s.RemoteShellStarterDeprecatedWarningAutoConfiguration - spring-boot-starter-remote-shell is deprecated as of Spring Boot 1.5 and will be removed in Spring Boot 2.0
